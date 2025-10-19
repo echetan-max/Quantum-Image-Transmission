@@ -3,7 +3,6 @@
 **A web application demonstrating resource-efficient quantum image transmission using high-dimensional superdense coding, classical pre-processing, and error mitigation on real IBM Quantum hardware.**
 
 ---
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-name-qmsg.streamlit.app)
 ## 📜 Overview
 
 Q-MSG implements a hybrid classical-quantum protocol for transmitting images more efficiently than standard quantum methods. By combining **Quantum Palette Multiplexing (QPM)** with **4-Dimensional Superdense Coding (4D-SDC)**, it achieves a ~33% reduction in entanglement cost versus baseline 6-bit RGB SDC, while aiming for acceptable visual quality on NISQ hardware.
