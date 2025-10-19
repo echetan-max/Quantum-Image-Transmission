@@ -1,0 +1,13 @@
+flask
+flask-cors
+supabase
+python-dotenv
+redis
+rq
+coolname
+qiskit
+qiskit-ibm-runtime
+numpy
+scikit-image
+Pillow
+requests
